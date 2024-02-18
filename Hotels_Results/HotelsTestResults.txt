@@ -1,0 +1,43 @@
+test_cancel_reservation_happy_path (__main__.HotelsTest.test_cancel_reservation_happy_path) ... ok
+test_cancel_reservation_neg_path_1 (__main__.HotelsTest.test_cancel_reservation_neg_path_1) ... ok
+test_cancel_reservation_neg_path_2 (__main__.HotelsTest.test_cancel_reservation_neg_path_2) ... ok
+test_cancel_reservation_neg_path_3 (__main__.HotelsTest.test_cancel_reservation_neg_path_3) ... ok
+test_cancel_reservation_neg_path_4 (__main__.HotelsTest.test_cancel_reservation_neg_path_4) ... ok
+test_create_hotel_happy_path (__main__.HotelsTest.test_create_hotel_happy_path) ... ok
+test_create_hotel_neg_path_1 (__main__.HotelsTest.test_create_hotel_neg_path_1) ... ok
+test_create_hotel_neg_path_2 (__main__.HotelsTest.test_create_hotel_neg_path_2) ... ok
+test_create_hotel_neg_path_3 (__main__.HotelsTest.test_create_hotel_neg_path_3) ... ok
+test_create_hotel_neg_path_4 (__main__.HotelsTest.test_create_hotel_neg_path_4) ... ok
+test_create_hotel_neg_path_5 (__main__.HotelsTest.test_create_hotel_neg_path_5) ... ok
+test_create_hotel_neg_path_6 (__main__.HotelsTest.test_create_hotel_neg_path_6) ... ok
+test_create_hotel_neg_path_7 (__main__.HotelsTest.test_create_hotel_neg_path_7) ... ok
+test_create_hotel_neg_path_8 (__main__.HotelsTest.test_create_hotel_neg_path_8) ... ok
+test_delete_hotel_happy_path (__main__.HotelsTest.test_delete_hotel_happy_path) ... ok
+test_delete_hotel_neg_path_1 (__main__.HotelsTest.test_delete_hotel_neg_path_1) ... ok
+test_delete_hotel_neg_path_2 (__main__.HotelsTest.test_delete_hotel_neg_path_2) ... ok
+test_delete_hotel_neg_path_3 (__main__.HotelsTest.test_delete_hotel_neg_path_3) ... ok
+test_delete_hotel_neg_path_4 (__main__.HotelsTest.test_delete_hotel_neg_path_4) ... ok
+test_display_hotel_information_happy_path (__main__.HotelsTest.test_display_hotel_information_happy_path) ... ok
+test_display_hotel_information_neg_path_1 (__main__.HotelsTest.test_display_hotel_information_neg_path_1) ... ok
+test_display_hotel_information_neg_path_2 (__main__.HotelsTest.test_display_hotel_information_neg_path_2) ... ok
+test_display_hotel_information_neg_path_3 (__main__.HotelsTest.test_display_hotel_information_neg_path_3) ... ok
+test_modify_hotel_information_happy_path (__main__.HotelsTest.test_modify_hotel_information_happy_path) ... ok
+test_modify_hotel_information_neg_path_1 (__main__.HotelsTest.test_modify_hotel_information_neg_path_1) ... ok
+test_modify_hotel_information_neg_path_2 (__main__.HotelsTest.test_modify_hotel_information_neg_path_2) ... ok
+test_modify_hotel_information_neg_path_3 (__main__.HotelsTest.test_modify_hotel_information_neg_path_3) ... ok
+test_modify_hotel_information_neg_path_4 (__main__.HotelsTest.test_modify_hotel_information_neg_path_4) ... ok
+test_modify_hotel_information_neg_path_5 (__main__.HotelsTest.test_modify_hotel_information_neg_path_5) ... ok
+test_modify_hotel_information_neg_path_6 (__main__.HotelsTest.test_modify_hotel_information_neg_path_6) ... ok
+test_modify_hotel_information_neg_path_7 (__main__.HotelsTest.test_modify_hotel_information_neg_path_7) ... ok
+test_modify_hotel_information_neg_path_8 (__main__.HotelsTest.test_modify_hotel_information_neg_path_8) ... ok
+test_modify_hotel_information_neg_path_9 (__main__.HotelsTest.test_modify_hotel_information_neg_path_9) ... ok
+test_reserve_room_happy_path (__main__.HotelsTest.test_reserve_room_happy_path) ... ok
+test_reserve_room_neg_path_1 (__main__.HotelsTest.test_reserve_room_neg_path_1) ... ok
+test_reserve_room_neg_path_2 (__main__.HotelsTest.test_reserve_room_neg_path_2) ... ok
+test_reserve_room_neg_path_3 (__main__.HotelsTest.test_reserve_room_neg_path_3) ... ok
+test_reserve_room_neg_path_4 (__main__.HotelsTest.test_reserve_room_neg_path_4) ... ok
+
+----------------------------------------------------------------------
+Ran 38 tests in 0.012s
+
+OK
