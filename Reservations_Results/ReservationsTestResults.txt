@@ -1,0 +1,18 @@
+test_cancel_customer_reservation_happy_path (__main__.ReservationsTest.test_cancel_customer_reservation_happy_path) ... ok
+test_cancel_customer_reservation_neg_path_1 (__main__.ReservationsTest.test_cancel_customer_reservation_neg_path_1) ... ok
+test_cancel_customer_reservation_neg_path_2 (__main__.ReservationsTest.test_cancel_customer_reservation_neg_path_2) ... ok
+test_cancel_customer_reservation_neg_path_3 (__main__.ReservationsTest.test_cancel_customer_reservation_neg_path_3) ... ok
+test_cancel_customer_reservation_neg_path_4 (__main__.ReservationsTest.test_cancel_customer_reservation_neg_path_4) ... ok
+test_create_customer_reservation_happy_path (__main__.ReservationsTest.test_create_customer_reservation_happy_path) ... ok
+test_create_customer_reservation_neg_path_1 (__main__.ReservationsTest.test_create_customer_reservation_neg_path_1) ... ok
+test_create_customer_reservation_neg_path_2 (__main__.ReservationsTest.test_create_customer_reservation_neg_path_2) ... ok
+test_create_customer_reservation_neg_path_3 (__main__.ReservationsTest.test_create_customer_reservation_neg_path_3) ... ok
+test_create_customer_reservation_neg_path_4 (__main__.ReservationsTest.test_create_customer_reservation_neg_path_4) ... ok
+test_create_customer_reservation_neg_path_5 (__main__.ReservationsTest.test_create_customer_reservation_neg_path_5) ... ok
+test_create_customer_reservation_neg_path_6 (__main__.ReservationsTest.test_create_customer_reservation_neg_path_6) ... ok
+test_create_customer_reservation_neg_path_7 (__main__.ReservationsTest.test_create_customer_reservation_neg_path_7) ... ok
+
+----------------------------------------------------------------------
+Ran 13 tests in 0.001s
+
+OK
